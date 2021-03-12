@@ -1,0 +1,29 @@
+{
+    "name": "reyvera",
+    "version": "1.0.0",
+    "description": "Rey Vera - Software Engineer, musician, husband, and father...You can say I'm a super-hero!",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start",
+        "export": "next export"
+    },
+    "author": "Rey Vera",
+    "license": "ISC",
+    "dependencies": {
+        "next": "^10.0.4",
+        "next-seo": "^4.17.0",
+        "next-videos": "^1.4.0",
+        "react": "^16.14.0",
+        "react-accessible-accordion": "^3.3.3",
+        "react-dom": "^16.14.0",
+        "react-image-lightbox": "^5.1.1",
+        "react-modal-video": "^1.2.6",
+        "react-owl-carousel3": "^2.2.5",
+        "react-particles-js": "^2.7.1",
+        "react-visibility-sensor": "^5.1.1",
+        "react-wow": "^1.0.0",
+        "sass": "^1.32.0"
+    }
+}
