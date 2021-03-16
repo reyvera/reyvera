@@ -159,14 +159,14 @@ class NavbarTwo extends Component {
                                         </Link>
                                     </li>
 
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="/portfolio">
                                             <a className="nav-link">
                                                 Portfolio
                                             </a>
                                         </Link>
 
-                                        {/* <ul className="dropdown-menu">
+                                        <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/portfolio" activeClassName="active">
                                                     <a className="nav-link">Portfolio</a>
@@ -178,8 +178,8 @@ class NavbarTwo extends Component {
                                                     <a className="nav-link">Portfolio Details</a>
                                                 </Link>
                                             </li>
-                                        </ul> */}
-                                    </li>
+                                        </ul>
+                                    </li> */}
 
                                     {/* <li className="nav-item">
                                         <Link href="/#">
@@ -251,14 +251,14 @@ class NavbarTwo extends Component {
                                         </ul>
                                     </li> */}
 
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="/blog">
                                             <a className="nav-link">
                                                 Blog
                                             </a>
                                         </Link>
 
-                                        {/* <ul className="dropdown-menu">
+                                        <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/blog" activeClassName="active">
                                                     <a className="nav-link">Blog Grid</a>
@@ -282,8 +282,8 @@ class NavbarTwo extends Component {
                                                     <a className="nav-link">Blog Details</a>
                                                 </Link>
                                             </li>
-                                        </ul> */}
-                                    </li>
+                                        </ul>
+                                    </li> */}
 
                                     <li className="nav-item">
                                         <Link href="/contact" activeClassName="active">

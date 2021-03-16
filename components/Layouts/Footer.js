@@ -25,22 +25,22 @@ class Footer extends Component {
                                 <ul className="social-links">
                                     <li>
                                         <Link href="/#">
-                                            <a target="_blank"><i className="icofont-facebook"></i></a>
+                                            <a target="_blank" href="https://www.facebook.com/ravera87/"><i className="icofont-facebook"></i></a>
                                         </Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <Link href="/#">
                                             <a target="_blank"><i className="icofont-twitter"></i></a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link href="/#">
-                                            <a target="_blank"><i className="icofont-linkedin"></i></a>
+                                            <a target="_blank" href="https://www.linkedin.com/in/reyvera"><i className="icofont-linkedin"></i></a>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="/#">
-                                            <a target="_blank"><i className="icofont-instagram"></i></a>
+                                            <a target="_blank" href="https://www.instagram.com/reyvera2012/"><i className="icofont-instagram"></i></a>
                                         </Link>
                                     </li>
                                 </ul>
@@ -72,11 +72,6 @@ class Footer extends Component {
                                             <a>Portfolio</a>
                                         </Link>
                                     </li>
-                                    <li>
-                                        <Link href="/team">
-                                            <a>Team</a>
-                                        </Link>
-                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -91,16 +86,16 @@ class Footer extends Component {
                                             <a>Contact Me</a>
                                         </Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <Link href="/pricing">
                                             <a>Pricing</a>
                                         </Link>
-                                    </li>
-                                    <li>
+                                    </li> */}
+                                    {/* <li>
                                         <Link href="/faq">
                                             <a>Faq</a>
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link href="/privacy-policy">
                                             <a>Privacy Policy</a>
@@ -122,8 +117,8 @@ class Footer extends Component {
                                 <ul className="get-in-touch">
                                     <li><i className="icofont-home"></i> Visalia, CA.</li>
                                     <br/>
-                                    <li><i className="icofont-live-support"></i> +‪559-640-7382</li>
-                                    <li><i className="icofont-envelope"></i> mail@reyvera.com</li>
+                                    <li><a href="tel:+15596407382"><i className="icofont-live-support"></i> +‪559-640-7382</a></li>
+                                    <li><a href="mailto:mail@reyvera.com"><i className="icofont-envelope"></i> mail@reyvera.com</a></li>
                                 </ul>
                             </div>
                         </div>

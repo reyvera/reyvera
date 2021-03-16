@@ -8,19 +8,19 @@ class Services extends Component {
                 <div className="container">
                     <div className="section-title">
                         <h2>Services</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>I offer a variety of services, depending on your need, and the my desire to help!</p>
                     </div>
 
                     <div className="row">
                         <div className="col-lg-4 col-sm-6">
                             <div className="service-card-one white-bg text-center radius-10">
-                                <i className="pe-7s-comment bg-13c4a1"></i>
+                                <i className="pe-7s-global bg-13c4a1"></i>
                                 <h3>
                                     <Link href="/service-details">
-                                        <a>Business Consultancy</a>
+                                        <a>Embedded Software</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Creating amazing embedded software for all of the IoT needs. Robotics, Industrial Automation, etc...I can pretty much do it all.</p>
                             </div>
                         </div>
 
@@ -32,19 +32,7 @@ class Services extends Component {
                                         <a>Web Development</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6">
-                            <div className="service-card-one white-bg text-center radius-10">
-                                <i className="pe-7s-light bg-ffb700"></i>
-                                <h3>
-                                    <Link href="/service-details">
-                                        <a>Digital Marketing</a>
-                                    </Link>
-                                </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Design custom, responsive, and user friendly websites for Blogs/eCommerce/informational. Wordpress, Squarespace, Drupal, free hosting.</p>
                             </div>
                         </div>
 
@@ -56,31 +44,7 @@ class Services extends Component {
                                         <a>Mobile App Development</a>
                                     </Link>
                                 </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6">
-                            <div className="service-card-one white-bg text-center radius-10">
-                                <i className="pe-7s-cart bg-00d280"></i>
-                                <h3>
-                                    <Link href="/service-details">
-                                        <a>eCommerce Development</a>
-                                    </Link>
-                                </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                            </div>
-                        </div>
-
-                        <div className="col-lg-4 col-sm-6">
-                            <div className="service-card-one white-bg text-center radius-10">
-                                <i className="pe-7s-users bg-ff612f"></i>
-                                <h3>
-                                    <Link href="/service-details">
-                                        <a>Marketing & Reporting</a>
-                                    </Link>
-                                </h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                                <p>Hybrid, Android/iOS...anything cool! I have fun working with technology, currently working on crypto apps with bartrr.io</p>
                             </div>
                         </div>
                     </div>

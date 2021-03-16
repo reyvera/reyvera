@@ -37,20 +37,23 @@ class About extends Component {
                             <div className="about-content about-content-two">
                                 <div className="section-title">
                                     <h2>About Me</h2>
-                                    <p>Lorem ipsum dolor sit amet, con se ctetur adipiscing elit. In sagittis eg esta ante, sed viverra nunc tinci dunt nec elei fend et tiram.</p>
+                                    <p>Software engineer, musician, husband, and father all rolled into one. You can say I'm a super-hero!</p>
                                 </div>
 
                                 <div className="about-text">
                                     <h4>Who I Am</h4>
-                                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                                    <p>Most of my day consists of being a professional thinker - a contemplator. Considering problems we face, and solutions to overcome them. Maybe the answer is in tech, possibly in music, but almost always it is dependent on the desire to continue.</p>
                                 </div>
 
                                 <div className="about-text">
                                     <h4>The History</h4>
-                                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth.</p>
+                                    <p>As a young boy, there was never anything safe from complete deconstruction, simply because of an insatiable desire to understand it. This desire continued, and carried me through life...</p>
+                                    <p>Ended up with degrees in Engineering, Mathematics, and Philosophy (why?). The questions that plagued me seem to go deeper, and I needed to understand them...so the questions needed to be bigger.</p>
+                                    <p>Today...I have a successful career in software/embedded development, I am a statup CTO of bartrr.io, and founder of Pandemic Guitar Co.</p>
+                                    <p>The goal is to find meaning within this chaos!</p>
                                 </div>
 
-                                <div className="about-text">
+                                {/* <div className="about-text">
                                     <h4>The Mission</h4>
                                     <ul>
                                         <li>
@@ -66,7 +69,7 @@ class About extends Component {
                                             Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.
                                         </li>
                                     </ul>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

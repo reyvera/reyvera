@@ -61,14 +61,14 @@ class MainBanner extends Component {
                                         <a className="btn btn-primary">Get Started</a>
                                     </Link>
 
-                                    <Link href="/#play-video">
+                                    {/* <Link href="/#play-video">
                                         <a
                                             onClick={e => {e.preventDefault(); this.openModal()}}
                                             className="btn btn-secondary"
                                         > 
                                             <i className="icofont-ui-play"></i> How it works
                                         </a>
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>

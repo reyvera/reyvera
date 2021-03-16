@@ -23,10 +23,10 @@ class CreativeAgency2 extends Component {
                 <MainBanner />
                 <About />
                 <Services />
-                <OurWorks />
+                {/* <OurWorks /> */}
                 {/* <Feedback />  */}
                 <WorkProcess />
-                <PricingStyleOne /> 
+                {/* <PricingStyleOne />  */}
                 {/* <Team /> */}
                 <FunFactsTwo />
                 {/* <LatestNewsSlider /> */}
